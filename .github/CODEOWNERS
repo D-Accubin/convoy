@@ -1,0 +1,3 @@
+# Workflow changes can read every secret in this repo, so they are always
+# reviewed by the release manager. Everything else needs one peer approval.
+/.github/workflows/ @surdykbaba
