@@ -28,7 +28,7 @@ require (
 	github.com/go-redis/redis_rate/v10 v10.0.1
 	github.com/go-redsync/redsync/v4 v4.8.1
 	github.com/golang-jwt/jwt v3.2.2+incompatible
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/grafana/pyroscope-go v1.1.2
 	github.com/hibiken/asynq v0.24.1
 	github.com/jackc/pgx/v5 v5.6.0
@@ -293,7 +293,7 @@ require (
 	golang.org/x/oauth2 v0.21.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/sys v0.21.0 // indirect
-	golang.org/x/text v0.15.0 // indirect
+	golang.org/x/text v0.15.0
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.17.0 // indirect
 	google.golang.org/genproto v0.0.0-20231211222908-989df2bf70f3 // indirect
