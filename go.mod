@@ -1,8 +1,6 @@
 module github.com/frain-dev/convoy
 
-go 1.21.0
-
-toolchain go1.22.3
+go 1.24
 
 require (
 	cloud.google.com/go/pubsub v1.33.0
@@ -22,7 +20,7 @@ require (
 	github.com/getsentry/sentry-go v0.25.0
 	github.com/getsentry/sentry-go/otel v0.25.0
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-chi/chi/v5 v5.0.10
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/go-chi/render v1.0.1
 	github.com/go-redis/cache/v9 v9.0.0
 	github.com/go-redis/redis_rate/v10 v10.0.1
@@ -293,7 +291,7 @@ require (
 	golang.org/x/oauth2 v0.21.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/sys v0.21.0 // indirect
-	golang.org/x/text v0.15.0 // indirect
+	golang.org/x/text v0.15.0
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.17.0 // indirect
 	google.golang.org/genproto v0.0.0-20231211222908-989df2bf70f3 // indirect
